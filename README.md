@@ -4,7 +4,7 @@ The Pytorch implementation of the 3D Anisotropic Hybrid Network (AH-Net) that tr
 For more details, please refer to the paper:
 Siqi Liu, Daguang Xu, S. Kevin Zhou, Thomas Mertelmeier, Julia Wicklein, Anna Jerebko, Sasa Grbic, Olivier Pauly, Weidong Cai, Dorin Comaniciu
 3D Anisotropic Hybrid Network: Transferring Convolutional Features from 2D Images to 3D Anisotropic Volumes
-arXiv:1711.08580 [cs.CV]
+[arXiv:1711.08580 [cs.CV].](https://arxiv.org/abs/1711.08580)
 
 
 We only host the network modules here for brevity. 
