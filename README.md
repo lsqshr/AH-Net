@@ -1,4 +1,4 @@
-# AH-Net
+# 3D Anisotropic Hybrid Network (AH-Net) Pytorch Implementation
 The Pytorch implementation of the 3D Anisotropic Hybrid Network (AH-Net) that transfers convolutional features learned from 2D images to 3D anisotropic volumes. Such a transfer inherits the desired strong generalization capability for within-slice information while naturally exploiting between-slice information for more effective modelling. We experiment with the proposed 3D AH-Net on two different medical image analysis tasks, namely lesion detection from a Digital Breast Tomosynthesis volume, and liver and liver tumor segmentation from a Computed Tomography volume and obtain the state-of-the-art results.
 
 For more details, please refer to the paper:
