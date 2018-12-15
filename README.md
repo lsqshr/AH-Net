@@ -5,7 +5,7 @@ For more details, please refer to the paper:
 Siqi Liu, Daguang Xu, S. Kevin Zhou, Thomas Mertelmeier, Julia Wicklein, Anna Jerebko, Sasa Grbic, Olivier Pauly, Weidong Cai, Dorin Comaniciu
 3D Anisotropic Hybrid Network: Transferring Convolutional Features from 2D Images to 3D Anisotropic Volumes
 [arXiv:1711.08580 [cs.CV].](https://arxiv.org/abs/1711.08580) 
-A shorter version was presented in MICCAI19: https://link.springer.com/chapter/10.1007/978-3-030-00934-2_94
+A shorter version was presented in MICCAI18: https://link.springer.com/chapter/10.1007/978-3-030-00934-2_94
 
 
 We only host the example network implementations here for brevity. 
